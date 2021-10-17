@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+background: #0C1A22;
+}
+
+.chopin {
+    display: flex;
+}
+
+.wrapper1 {
+    max-width: 1110px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.wrapper2 {
+    max-width: 1110px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.chopinPhoto {
+    margin:60px 20px 30px 80px;
+    width: 416px;
+    height: 453px;
+    box-shadow: 24px 30px 30px -10px #7098AF;
+}
+
+.chopinMusic_1 {
+    margin:40px 0 0 80px;
+    width: 416px;
+    height: 310px;
+    box-shadow: 30px 30px 30px -10px #000;
+    filter: brightness(45%);
+}
+
+.chopinMusic_2 {
+    margin:60px 0 0 80px;
+    width: 416px;
+    height: 176px;
+    box-shadow: 30px 30px 30px -10px #000;
+    filter: brightness(40%);
+}
+
+.music1 {
+    margin:20px 0 0 168px;
+    color: #B5AEAE;
+    text-shadow: #000000 0.2em 0.3em 0.2em
+}
+
+.music2 {
+    margin:20px 0 0 162px;
+    color: #B5AEAE;
+    text-shadow: #000000 0.2em 0.3em 0.2em
+}
+
+.list {
+    margin:50px 10px 0 100px;
+    color: #B5AEAE;
+    text-shadow: #000000 0.2em 0.3em 0.2em
+
+}
+
+.name {
+    margin: 70px 100px 40px 10px;
+    color: #B5AEAE;
+    text-align: center;
+    text-shadow: #000000 0.2em 0.3em 0.2em
+}
+
+.text {
+    text-align: left;
+    color: #B5AEAE;
+    margin-right: 80px;
+    text-line-through: double;
+    font-size: 16px;
+
+}
+
+.chopin_right {
+    margin: 0;
+    padding: 0;
+}
