@@ -6,9 +6,9 @@
 .all {
     background:
             linear-gradient(217deg, rgb(242, 230, 239), rgba(255,0,0,0) 70.71%),
-            linear-gradient(127deg, rgba(169, 215, 224, 0.87), rgba(0,255,0,0) 70.71%),
-            linear-gradient(127deg, rgba(255, 255, 255, 0.89), rgba(0,255,0,0) 70.71%),
-            linear-gradient(336deg, rgba(181, 211, 219, 0.87), rgba(0,0,255,0) 70.71%);
+            linear-gradient(127deg, rgb(193, 230, 239), rgba(0,255,0,0) 70.71%),
+            linear-gradient(127deg, rgba(147, 108, 126, 0.89), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(162, 202, 210, 0.87), rgba(0,0,255,0) 70.71%);
     max-width: 1440px;
     margin: 0 auto;
     padding: 120px;
