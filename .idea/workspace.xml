@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ae8a22f-aeff-4838-9a79-f86852140a78" name="Default Changelist" comment="Done hw_3">
-      <change afterPath="$PROJECT_DIR$/hw_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_4/style.css" afterDir="false" />
+    <list default="true" id="9ae8a22f-aeff-4838-9a79-f86852140a78" name="Default Changelist" comment="Done hw_4">
+      <change afterPath="$PROJECT_DIR$/hw_1/images/Chopin_nocturne_op15_2a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1/images/chopin_big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1/images/unnamed.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hw_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hw_4" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -56,9 +58,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_4" />
       <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_2" />
       <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_1" />
       <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_1\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,7 +78,7 @@
       <workItem from="1634490634628" duration="585000" />
       <workItem from="1634491400464" duration="42000" />
       <workItem from="1634491617424" duration="166722000" />
-      <workItem from="1634728320251" duration="37735000" />
+      <workItem from="1634728320251" duration="42833000" />
     </task>
     <task id="LOCAL-00001" summary="Done hw_1">
       <created>1634514430658</created>
@@ -95,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634686638145</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done hw_4">
+      <created>1634805374334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634805374334</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +130,7 @@
     <MESSAGE value="Done hw_1" />
     <MESSAGE value="Done hw_2" />
     <MESSAGE value="Done hw_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done hw_3" />
+    <MESSAGE value="Done hw_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done hw_4" />
   </component>
 </project>
