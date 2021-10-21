@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ae8a22f-aeff-4838-9a79-f86852140a78" name="Default Changelist" comment="Done hw_4">
-      <change afterPath="$PROJECT_DIR$/hw_1/images/Chopin_nocturne_op15_2a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1/images/chopin_big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_1/images/unnamed.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1/index.html" afterDir="false" />
+    <list default="true" id="9ae8a22f-aeff-4838-9a79-f86852140a78" name="Default Changelist" comment="Додала папку з картинками">
+      <change afterPath="$PROJECT_DIR$/hw_2/images/unnamed.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +61,7 @@
       <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_2\images" />
       <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_1\images" />
     </key>
   </component>
@@ -78,7 +76,7 @@
       <workItem from="1634490634628" duration="585000" />
       <workItem from="1634491400464" duration="42000" />
       <workItem from="1634491617424" duration="166722000" />
-      <workItem from="1634728320251" duration="42833000" />
+      <workItem from="1634728320251" duration="43176000" />
     </task>
     <task id="LOCAL-00001" summary="Done hw_1">
       <created>1634514430658</created>
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634805374334</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Додала папку з картинками">
+      <created>1634810538489</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634810538489</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +136,7 @@
     <MESSAGE value="Done hw_2" />
     <MESSAGE value="Done hw_3" />
     <MESSAGE value="Done hw_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done hw_4" />
+    <MESSAGE value="Додала папку з картинками" />
+    <option name="LAST_COMMIT_MESSAGE" value="Додала папку з картинками" />
   </component>
 </project>
