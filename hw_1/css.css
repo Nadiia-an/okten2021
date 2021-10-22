@@ -6,6 +6,7 @@
 
 .chopin {
     display: flex;
+    justify-content: center;
 }
 
 .wrapper1 {
@@ -81,4 +82,10 @@
 .chopin_right {
     margin: 0;
     padding: 0;
+}
+
+.chopin_left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
