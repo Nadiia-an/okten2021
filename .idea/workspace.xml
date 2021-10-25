@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ae8a22f-aeff-4838-9a79-f86852140a78" name="Default Changelist" comment="Додавання картинок">
+    <list default="true" id="9ae8a22f-aeff-4838-9a79-f86852140a78" name="Default Changelist" comment="Зміна фото">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_1/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw_4/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,9 @@
       <workItem from="1634491400464" duration="42000" />
       <workItem from="1634491617424" duration="166722000" />
       <workItem from="1634728320251" duration="47640000" />
-      <workItem from="1634930864223" duration="2430000" />
+      <workItem from="1634930864223" duration="4592000" />
+      <workItem from="1634985647770" duration="21370000" />
+      <workItem from="1635106485715" duration="17244000" />
     </task>
     <task id="LOCAL-00001" summary="Done hw_1">
       <created>1634514430658</created>
@@ -122,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634811113561</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Зміна фото">
+      <created>1634934018234</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634934018234</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +142,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -147,6 +162,7 @@
     <MESSAGE value="Done hw_4" />
     <MESSAGE value="Додала папку з картинками" />
     <MESSAGE value="Додавання картинок" />
-    <option name="LAST_COMMIT_MESSAGE" value="Додавання картинок" />
+    <MESSAGE value="Зміна фото" />
+    <option name="LAST_COMMIT_MESSAGE" value="Зміна фото" />
   </component>
 </project>
