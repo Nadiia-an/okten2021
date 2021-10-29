@@ -247,6 +247,7 @@
     border-radius: 150px;
     display: flex;
     margin: -440px 40px 0 40px;
+    box-shadow: 0 -1px 6px 0 #e3e3e3;
 }
 
 .bloc_5_111 {
@@ -254,17 +255,17 @@
 }
 
 .bloc_5_1 h3 {
-    margin: 20px 0 0 100px;
+    margin: 20px 0 0 85px;
 }
 
 .bloc_5_2 h3 {
-    margin: 20px 0 0 100px;
+    margin: 20px 0 0 85px;
 }
 
 .bloc_5_1 h4 {
     color: white;
     font-size: 26px;
-    margin: 10px 0 0 55px;
+    margin: 10px 0 0 45px;
 }
 
 
@@ -289,13 +290,14 @@
     margin: 37px 0 0 35px;
     display: flex;
     border-radius: 150px;
+    box-shadow: 0 -1px 8px 0 #7d02f5;
 }
 
 
 .bloc_5_2 h4 {
     color: white;
     font-size: 26px;
-    margin: 10px 0 0 55px;
+    margin: 10px 0 0 42px;
 }
 
 .bloc_6_frame {
