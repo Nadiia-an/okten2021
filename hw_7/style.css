@@ -683,3 +683,9 @@
     margin: 5px 0 0 0;
     color: rgba(64, 64, 64, 0.81);
 }
+
+.the_final_text_2 {
+    color: #4A494A;
+    flex: 16px;
+    margin: -37px 0 0 69px;
+}
