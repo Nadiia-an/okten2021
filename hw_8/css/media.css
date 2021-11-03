@@ -1,0 +1,393 @@
+html {
+    overflow-x: hidden;
+}
+
+@media screen and (max-width: 400px) {
+    .header_menu {
+        display: none;
+    }
+
+    .header_logo img {
+        width: 50px;
+    }
+
+    .wrapper {
+        max-width: 340px;
+        padding: 0 10px;
+    }
+
+    .header_top {
+        padding-top: 20px;
+    }
+
+    .nav_btn_mobile {
+        display: flex;
+    }
+
+    .header_title {
+        text-align: center;
+        margin-top: 100px;
+    }
+
+    .header_title h2 {
+        font-size: 30px;
+        margin-left: -170px;
+        line-height: 36px;
+    }
+
+    .header_title h1 {
+        font-size: 36px;
+        line-height: 46px;
+        margin-left: -165px;
+    }
+
+    .header_title p {
+        font-size: 18px;
+        line-height: 20px;
+        margin-left: -150px;
+    }
+
+    .header_main_btn {
+        margin-top: -10px;
+        margin-left: -148px;
+    }
+
+    .wr {
+        flex-direction: column;
+    }
+
+    .box_1 {
+        margin: 250px 75px 30px 13px;
+    }
+
+    .box_2 {
+        margin-left: 13px;
+    }
+
+    .box_3 {
+        margin-left: 13px;
+    }
+
+
+    .story {
+        flex-direction: column;
+    }
+
+    .our_story {
+        margin-left: 0;
+        margin-top: 1050px;
+    }
+
+    .discover_our_story h3 {
+        font-size: 54px;
+        line-height: 62px;
+        color: #000000;
+        text-align: center;
+        margin: 35px 40px 0 40px;
+    }
+
+    .discover_our_story p {
+        margin-top: 20px;
+    }
+
+    .our_story {
+        width: 375px;
+        height: 422px;
+    }
+
+    .story_123 {
+        flex-direction: column;
+    }
+
+
+    .story_1 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .story_1 p {
+        font-size: 20px;
+        margin: 0 0 20px 2px;
+    }
+
+    .story_2 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .story_2 p {
+        font-size: 20px;
+        margin: 0 0 20px 2px;
+    }
+
+
+    .story_3 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .story_3 p {
+        font-size: 20px;
+        margin: 0 0 20px 2px;
+    }
+
+
+    .bg {
+        width: 375px;
+        height: 400px;
+        margin-top: 400px;
+    }
+
+    .bg h2 {
+        width: 320px;
+        font-size: 30px;
+        line-height: 34px;
+        text-align: center;
+        color: #D67E34;
+        margin: 0 25px 0 25px;
+    }
+
+    .bg h4 {
+        width: 340px;
+        height: 66px;
+        margin-left: 20px;
+        /*top: 2937px;*/
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 33px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .button {
+        width: 139px;
+        height: 43px;
+        margin: -115px 15px 0 100px;
+    }
+
+    .name_22 {
+        width: 290px;
+        height: 62px;
+        font-size: 54px;
+        line-height: 62px;
+        color: #000000;
+        text-align: center;
+        margin: 160px 40px 40px 40px;
+    }
+
+    .box_all {
+        flex-direction: column;
+    }
+
+    .box_4 {
+        width: 375px;
+        height: 400px;
+        padding: 0;
+        margin: 150px 0 0 0;
+    }
+
+    .all_567 {
+        width: 375px;
+    }
+
+    .box_55 {
+        display: none;
+    }
+
+    .box_55_5 {
+        width: 350px;
+        height: 120px;
+        margin-left: 15px;
+        margin-top: 50px;
+        display: flex;
+    }
+
+    .box_55_5 h4 {
+        font-size: 22px;
+        line-height: 25px;
+        margin-left: -20px;
+        margin-top: 150px;
+        text-align: center;
+    }
+
+    .box_66 {
+        display: none;
+    }
+
+    .box_66_6 {
+        width: 350px;
+        height: 120px;
+        margin-left: 15px;
+        margin-top: 80px;
+        display: flex;
+    }
+
+    .box_66_6 h4 {
+        font-size: 22px;
+        line-height: 25px;
+        margin-left: -20px;
+        margin-top: 150px;
+        text-align: center;
+    }
+
+    .box_77 {
+        display: none;
+    }
+
+    .box_77_7 {
+        width: 350px;
+        height: 120px;
+        /*margin-left: 15px;*/
+        margin: 80px 0 90px 15px;
+        display: flex;
+    }
+
+    .box_77_7 h4 {
+        font-size: 22px;
+        line-height: 25px;
+        margin-left: -20px;
+        margin-top: 150px;
+        text-align: center;
+    }
+
+    .recommended_123 {
+        width: 320px;
+        height: 838px;
+        margin-left: 0;
+        margin-top: 150px;
+
+    }
+
+    .recommended_1 {
+        margin-left: 13px;
+
+    }
+
+    .testimontal {
+    width: 375px;
+    }
+
+    .testimontal p {
+        font-size: 20px;
+        line-height: 27px;
+        padding: 8px;
+        margin: 0 10px 394px 10px;
+    }
+
+    .testimontal img {
+    width: 100px;
+    height: 100px;
+    margin-top: -370px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    .elipse_123 {
+    margin-top: -90px;
+    }
+
+
+    .gallery_name {
+    font-size: 54px;
+    line-height: 62px;
+    color: #000000;
+    /*margin-top: 200px;*/
+    text-align: center;
+    margin: 200px 30px 0 30px;
+}
+
+    .gallery_all {
+    flex-direction: column;
+}
+
+    .gallery_123 {
+        flex-direction: column;
+    }
+
+    .gallery_23 {
+        flex-direction: column;
+    }
+
+    .gallery_124 {
+        flex-direction: column;
+    }
+
+    .gallery_56 {
+        flex-direction: column;
+    }
+
+    .gallery_1 img {
+        width: 350px;
+        height: 350px;
+        margin: 20px 0 0 -153px;
+    }
+
+    .gallery_2 img {
+        width: 350px;
+        height: 350px;
+        margin: 90px 0 0 -153px;
+
+    }
+
+    .gallery_3 img {
+        width: 350px;
+        margin: 20px 0 0 -153px;
+
+    }
+
+    .gallery_4 img {
+        width: 350px;
+        height: 350px;
+        margin: -10px 0 0 3px;
+    }
+
+    .gallery_5 img {
+        width: 350px;
+        height: 350px;
+        margin: -80px 0 0 3px;
+    }
+
+    .gallery_6 img {
+        width: 350px;
+        height: 350px;
+        margin: 20px 0 0 3px;
+    }
+
+    .chef {
+        font-size: 54px;
+        line-height: 62px;
+        color: #000000;
+        text-align: center;
+        margin: 200px 40px 0 40px;
+    }
+
+    .chefs_123 {
+    flex-direction: column;
+}
+
+    .chef_1 {
+    width: 350px;
+    height: 390px;
+    margin: 20px 0 0 -153px;
+}
+
+    .chef_2 {
+        width: 350px;
+        height: 390px;
+        margin: 90px 0 0 -153px;
+    }
+
+    .chef_3 {
+        width: 350px;
+        height: 390px;
+        margin: 90px 0 0 -153px;
+    }
+
+
+
+}
