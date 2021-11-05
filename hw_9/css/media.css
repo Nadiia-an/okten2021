@@ -1,0 +1,341 @@
+@media screen and (max-width: 400px) {
+    .first_screen-left h1 {
+        font-weight: bold;
+        font-size: 34px;
+        line-height: 45px;
+        letter-spacing: -0.4px;
+        text-align: center;
+        margin-left: -5px;
+    }
+
+    .navbar-brand img {
+        margin-left: 0;
+    }
+
+    .col-xl-5 .first-screen-left {
+    margin-left: 10px;
+    }
+
+    .first_screen-left .first-screen-text::before {
+        width: 227px;
+        height: 7px;
+        background-color: #EDEFF3;
+        margin: 30px 0 0 45px;
+    }
+
+    .first_screen-left .first-screen-text::after {
+        display: none;
+    }
+
+    .first-screen-right img {
+    width: 260px;
+    height: 270px;
+    margin: 90px 0 0 45px;
+    }
+
+    .first_screen-left p {
+        margin: 120px 20px 0 20px;
+    }
+    .photo-2 {
+        width: 440px;
+        height: 290px;
+        margin: 50px 0 0 -45px;
+    }
+
+    .first-screen-left h2 {
+        margin: -80px 25px 0 25px;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 40px;
+        text-align: center;
+        letter-spacing: 2px;
+        color: #1652AC;
+        transform: rotate(0.02deg);
+    }
+
+    .first-screen-left p {
+        margin: 20px 20px 0 20px;
+    }
+
+    .col-sm-6 img {
+        width: 378px;
+        height: 505px;
+        margin-top: -50px;
+    }
+
+    .col-6 {
+        width: 375px;
+        height: 620px;
+        margin-top: 0;
+        background: linear-gradient(180deg, #163DA2 0%, #003584 100%);
+    }
+
+    .col-6 h2 {
+    margin: 40px 15px 30px 15px;
+    }
+    .col-6 p {
+        font-size: 17px;
+        line-height: 32px;
+        margin: 0 20px 0 20px;
+        color: #FBFDFF;
+    }
+
+    .col-sm img {
+        margin: -165px 0 0 -80px;
+    }
+
+    .col-sm h2 {
+        width: 342px;
+        height: 40px;
+        margin: -90px 0 20px 15px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 40px;
+        text-align: center;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        transform: rotate(0.02deg);
+    }
+
+    .col-sm-6-1 p {
+    margin: 10px 13px 10px 20px;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 32px;
+    color: #45494F;
+    }
+
+    .col-sm p {
+        margin: 190px 20px 10px 20px;
+        font-weight: normal;
+        font-size: 17px;
+        line-height: 32px;
+        color: #45494F;
+    }
+
+    .col-sm-6-2 {
+    margin: -160px 0 0 0;
+    }
+
+    .title-1 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 4px;
+    color: #020303;
+    margin: 0 0 50px 100px;
+        font-style: normal;
+    }
+
+    .row-cols-all {
+        margin: 50px 0 0 15px;
+        width: 330px;
+        height: 120px;
+    }
+
+    .rows-all-1 {
+    width: 355px;
+    height: 1600px;
+    margin: 1300px 15px 15px -150px;
+    background: #FFFFFF;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.29);
+    border-radius: 16px;
+    padding: 70px 0 0 0;
+    }
+
+    .title-left-and-right {
+    display: flex;
+    flex-direction: column;
+    }
+
+    .title-2 {
+    margin: -30px 0 100px 30px;
+    }
+
+    .title-left {
+        margin-left: 17px;
+        margin-top: -80px;
+    }
+
+        .title-right {
+            margin-left: 17px;
+            margin-top: 15px;
+    }
+
+    .title-3 {
+    margin: 2270px 0 0 130px;
+    }
+
+    .button-1-2 {
+    display: none;
+    }
+
+    .circle-1 {
+    width: 9px;
+    height: 9px;
+    margin: 20px 0 0 -340px;
+}
+
+    .circle-2 {
+        width: 9px;
+        height: 9px;
+        margin: 20px 5px 0 10px;
+    }
+
+    .circle-3 {
+        width: 9px;
+        height: 9px;
+        margin: 20px 0 0 5px;
+    }
+
+    .pictures img {
+    width: 360px;
+    height: 479px;
+    border-radius: 8px;
+    margin: 70px 0 0 8px;
+    }
+
+    .title-4 {
+    width: 297px;
+    height: 57px;
+    margin: 30px 0 0 39px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 2px;
+    }
+
+    .btn-primary  {
+    width: 360px;
+    height: 64px;
+    }
+
+    .btn-primary-12 {
+    margin: 8px;
+    padding: 80px 0 0 0;
+    }
+
+    .logo-2 {
+    width: 155px;
+    height: 60px;
+    margin: -660px 0 0 90px;
+    opacity: 0.8;
+    }
+
+    .title-5 {
+    width: 708px;
+    height: 31px;
+    margin-left: 32px;
+    margin-top: 155px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 43px;
+    letter-spacing: -0.4px;
+    }
+
+    .text-1 p {
+    margin-left: 32px;
+    margin-top: -80px;
+    width: 300px;
+    height: 300px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+    color: #45494F;
+    }
+
+    .text-1p p {
+    margin: -145px 0 0 32px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+    color: #45494F;
+    }
+
+    .all {
+    display: flex;
+    flex-direction: column;
+    }
+
+    .btn-btn-primary-btn-sm {
+    width: 359px;
+    height: 68px;
+    margin-left: 6px;
+    margin-top: 515px;
+    background: linear-gradient(180deg, #0C5CD6 0%, rgba(0, 56, 140, 0) 100%), #004FC7;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: 0 1px 4px rgba(48, 67, 133, 0.5);
+    border-radius: 12px;
+    }
+
+    .kontact p {
+    width: 249px;
+    height: 26px;
+    margin-left: 65px;
+    margin-top: -48px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #ffffff;
+    }
+
+    .contacts {
+    display: flex;
+    flex-direction: column;
+    }
+
+    .name1 {
+    width: 352px;
+    height: 27px;
+    margin: 120px 20px 0 -130px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: -0.4px;
+    color: #A3ADBA;
+    }
+
+    .text1 {
+    width: 270px;
+    height: 25px;
+    margin: 10px 20px 0 -130px;
+
+    }
+
+    .text2 {
+        width: 270px;
+        height: 25px;
+        margin: 10px 20px 0 -130px;
+
+    }
+
+    .bloc-1 {
+        margin-top: 20px;
+    }
+
+    .bloc-2 {
+    margin-top: -50px;
+    }
+
+    .bloc-3 {
+        margin-top: -50px;
+    }
+
+    .bloc-4 {
+        margin: -90px 0 80px 0;
+    }
+
+}
