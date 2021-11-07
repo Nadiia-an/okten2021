@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ae8a22f-aeff-4838-9a79-f86852140a78" name="Default Changelist" comment="Зміна стилів">
-      <change afterPath="$PROJECT_DIR$/hw_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_5/style.css" afterDir="false" />
+    <list default="true" id="9ae8a22f-aeff-4838-9a79-f86852140a78" name="Default Changelist" comment="Done hw_11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_10/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hw_5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hw-10" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -56,14 +60,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_4" />
-      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_2" />
-      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_1" />
-      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_3" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw-10" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_10" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_9" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_9\image" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_2\images" />
-      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_1\images" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_11\images" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_10\images" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_9\image" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_8\images" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\okten2021\hw_8\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,7 +89,25 @@
       <workItem from="1634930864223" duration="4592000" />
       <workItem from="1634985647770" duration="21370000" />
       <workItem from="1635106485715" duration="17830000" />
-      <workItem from="1635155089834" duration="30141000" />
+      <workItem from="1635155089834" duration="30528000" />
+      <workItem from="1635234716968" duration="44045000" />
+      <workItem from="1635359699425" duration="95557000" />
+      <workItem from="1635756047296" duration="3324000" />
+      <workItem from="1635760717484" duration="32000" />
+      <workItem from="1635760794306" duration="602000" />
+      <workItem from="1635761988152" duration="39000" />
+      <workItem from="1635762053249" duration="43000" />
+      <workItem from="1635762115100" duration="34000" />
+      <workItem from="1635762169241" duration="45000" />
+      <workItem from="1635762294319" duration="6987000" />
+      <workItem from="1635776016561" duration="27000" />
+      <workItem from="1635776200581" duration="1461000" />
+      <workItem from="1635777689825" duration="46891000" />
+      <workItem from="1635833335468" duration="43200000" />
+      <workItem from="1635943294861" duration="104726000" />
+      <workItem from="1636117054884" duration="129351000" />
+      <workItem from="1636272605937" duration="3917000" />
+      <workItem from="1636276988044" duration="2354000" />
     </task>
     <task id="LOCAL-00001" summary="Done hw_1">
       <created>1634514430658</created>
@@ -160,7 +186,98 @@
       <option name="project" value="LOCAL" />
       <updated>1635160407650</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Оптимізувала код з попереднього дз">
+      <created>1635200337457</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1635200337458</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Оптимізувала код з попереднього дз">
+      <created>1635242593054</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1635242593054</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Done hw">
+      <created>1635420621732</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1635420621732</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Done hw_7">
+      <created>1635501643682</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1635501643682</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Done hw_6">
+      <created>1635502110408</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1635502110408</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Done hw_6">
+      <created>1635503368106</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1635503368106</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Done hw_7">
+      <created>1635504250590</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1635504250590</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Додавання стилів до bloc_5">
+      <created>1635510805794</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1635510805794</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Done hw_7">
+      <created>1635511752066</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1635511752066</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Зміна розмірів фото у bloc_6">
+      <created>1635512637823</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1635512637823</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Done hw_8">
+      <created>1635899724675</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1635899724675</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Done hw_9">
+      <created>1636073371122</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1636073371122</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Done hw_11">
+      <created>1636275971595</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1636275971595</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +312,15 @@
     <MESSAGE value="Додала ще 2 додаткові завдання" />
     <MESSAGE value="Зміна назви" />
     <MESSAGE value="Зміна стилів" />
-    <option name="LAST_COMMIT_MESSAGE" value="Зміна стилів" />
+    <MESSAGE value="Оптимізувала код з попереднього дз" />
+    <MESSAGE value="Done hw" />
+    <MESSAGE value="Done hw_6" />
+    <MESSAGE value="Додавання стилів до bloc_5" />
+    <MESSAGE value="Done hw_7" />
+    <MESSAGE value="Зміна розмірів фото у bloc_6" />
+    <MESSAGE value="Done hw_8" />
+    <MESSAGE value="Done hw_9" />
+    <MESSAGE value="Done hw_11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done hw_11" />
   </component>
 </project>
