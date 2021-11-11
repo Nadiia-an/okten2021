@@ -5,17 +5,17 @@
 
 .all {
     background:
-            linear-gradient(217deg, rgb(242, 230, 239), rgba(255,0,0,0) 70.71%),
+            linear-gradient(217deg, rgb(197, 224, 221), rgba(255,0,0,0) 70.71%),
             linear-gradient(127deg, rgb(193, 230, 239), rgba(0,255,0,0) 70.71%),
-            linear-gradient(127deg, rgba(147, 108, 126, 0.89), rgba(0,255,0,0) 70.71%),
-            linear-gradient(336deg, rgba(162, 202, 210, 0.87), rgba(0,0,255,0) 70.71%);
+            linear-gradient(127deg, rgba(210, 185, 185, 0.89), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(194, 220, 227, 0.87), rgba(0,0,255,0) 70.71%);
     max-width: 1440px;
     margin: 0 auto;
     padding: 120px;
 }
 
 .all h1 {
-    margin:0 0 30px 0;
+    margin: -100px 0 30px 0;
     text-shadow: #333333 0.07em 0.05em 0.07em;
     color: #1D444D;
     font-size: 70px;
