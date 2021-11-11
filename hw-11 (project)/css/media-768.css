@@ -1,0 +1,738 @@
+
+html {
+    overflow-x: hidden;
+}
+
+@media screen and (max-width: 768px) {
+
+    .header-left {
+        font-size: 13px;
+        line-height: 15px;
+        margin-left: -70px;
+    }
+
+    .city-name {
+        font-weight: 500;
+        margin-top: -16px;
+    }
+
+    .information {
+        margin-left: 30px;
+    }
+    .header-right {
+        display: none;
+    }
+
+    .logo-all {
+        margin-left: 20px;
+    }
+
+    .time {
+        margin-top: 20px;
+        margin-left: -70px;
+    }
+
+    .location {
+        margin-top: 80px;
+        margin-left: -315px;
+        width: 400px;
+    }
+
+    .clock-description {
+        width: 186px;
+        height: 36px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .location-description {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .button {
+        margin-left: -45px;
+        margin-top: 90px;
+        width: 182px;
+        height: 20px;
+    }
+
+    .number-all {
+        margin-left: -195px;
+        margin-top: 20px;
+    }
+
+    .number {
+        font-size: 16px;
+        line-height: 19px;
+
+    }
+
+    .number-description {
+        font-size: 12px;
+        line-height: 14px;
+        margin-left: 57px;
+        margin-top: 1px;
+    }
+
+
+    .whatsApp-description {
+        font-size: 12px;
+        line-height: 14px;
+        margin-left: 3px;
+        margin-top: -1px;
+    }
+
+    .whatsApp-icon {
+        margin-top: -4px;
+        margin-left: 6px;
+    }
+
+    .header-two {
+        margin-left: -70px;
+    }
+
+    .button-2 {
+        width: 43px;
+        height: 43px;
+        /*margin-left: 40px;*/
+    }
+
+    .catalog-all {
+        margin-left: -18px;
+        margin-top: -5px;
+    }
+
+    .catalog {
+        display: none;
+    }
+
+    .button-3 {
+        width: 290px;
+        height: 43px;
+        /*margin-left: -10px;*/
+    }
+
+    .button-3-text {
+        font-size: 13px;
+        line-height: 15px;
+        margin-top: 12px;
+    }
+
+    .button-3-1 {
+        width: 90px;
+        height: 43px;
+    }
+
+    .button-3-1-text {
+        font-size: 13px;
+        line-height: 17px;
+        margin-left: 27px;
+        margin-top: 12px;
+    }
+
+    .login {
+        flex-direction: column;
+        margin-left: -110px;
+    }
+
+    .line-1 {
+        margin-left: 95px;
+        margin-top: -35px;
+    }
+
+
+    .line-2 {
+        margin-left: 120px;
+        margin-top: -35px;
+    }
+
+    .login img {
+        margin-left: 15px;
+    }
+
+
+    .favorites {
+        flex-direction: column;
+        margin-left: -50px;
+    }
+
+    .favorites img {
+        margin-left: 19px;
+    }
+
+    .basket {
+        flex-direction: column;
+        margin-left: -35px;
+    }
+
+    .basket img {
+        margin-left: 10px;
+    }
+
+
+
+    .basket-name {
+        width: 75px;
+        height: 24px;
+        font-size: 13px;
+        line-height: 12px;
+        text-align: center;
+        font-weight: 700;
+    }
+
+    .bloc-3 {
+        margin-left: -70px;
+    }
+
+    .first-screen-left img {
+        width: 479px;
+        height: 314px;
+    }
+
+    .first-screen-left h2 {
+        margin-left: 120px;
+        margin-top: -260px;
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .first-screen-left p {
+        font-size: 16px;
+        line-height: 19px;
+        margin-left: 120px;
+    }
+
+    .first-screen-left h4 {
+        font-size: 18px;
+        line-height: 21px;
+        margin-left: 120px;
+        margin-top: -50px;
+    }
+
+    .first-screen-left h1 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-left: 120px;
+        margin-top: 40px;
+    }
+
+    .button-4 {
+        width: 152px;
+        height: 46px;
+        margin-left: 120px;
+        margin-top: 45px;
+    }
+
+    .button-4 img {
+        width: 16px;
+        height: 16px;
+    }
+
+    .button-4-1 p {
+        width: 66px;
+        font-size: 14px;
+        line-height: 16px;
+        margin-left: 15px;
+        margin-top: 13px;
+    }
+
+    .scroll-left {
+        display: none;
+    }
+
+    .scroll-right {
+        display: none;
+    }
+    .arrow-1 {
+        display: none;
+    }
+
+    .arrow-2 {
+        display: none;
+    }
+
+    .first-screen-right img {
+        width: 222px;
+        height: 188px;
+        margin-top: -100px;
+        margin-left: 340px;
+    }
+
+    .circle-all {
+        margin-left: 305px;
+        margin-top: 320px;
+    }
+
+    .sall-1 {
+        width: 239px;
+        height: 152px;
+    }
+
+    .sall-2 {
+        width: 239px;
+        height: 152px;
+    }
+
+    .spare-part-1 img {
+        width: 70px;
+        height: 65px;
+        margin-top: 15px;
+    }
+
+    .spare-part-2 img {
+        width: 70px;
+        height: 65px;
+        margin-top: 15px;
+    }
+
+    .spare-part-1 h4 {
+        font-size: 13px;
+        line-height: 14px;
+    }
+
+    .spare-part-2 h4 {
+        font-size: 13px;
+        line-height: 14px;
+    }
+
+    .salle-name h3 {
+        font-size: 13px;
+        line-height: 20px;
+        margin-top: -20px;
+        margin-left: -10px;
+    }
+
+    .salle-name p {
+        font-size: 10px;
+        line-height: 12px;
+        margin-left: -10px;
+        margin-top: -3px;
+    }
+
+    .salle-name h2 {
+        font-size: 18px;
+        line-height: 21px;
+        margin-left: -10px;
+        margin-top: 28px;
+    }
+
+    .button-5 {
+        width: 39px;
+        height: 39px;
+        margin-left: 185px;
+        margin-top: 95px;
+    }
+
+    .button-5 img {
+        width: 15px;
+        height: 15px;
+        margin-left: 12px;
+        margin-top: 12px;
+    }
+
+    .productReviewAll {
+        margin-left: -70px;
+        margin-top: -10px;
+    }
+
+    .productReview-11 {
+        width: 292px;
+        height: 149px;
+    }
+
+    .productReview-12 {
+        width: 292px;
+        height: 149px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .productReview-13 {
+        width: 292px;
+        height: 149px;
+    }
+
+    .productReview-1 h3 {
+        font-size: 18px;
+        line-height: 21px;
+        margin-left: 0;
+        margin-top: -15px;
+    }
+    .productReview-1 p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-left: 0;
+        margin-top: 5px;
+    }
+
+    .button-6 {
+        width: 76px;
+        height: 24px;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .button-6 h4 {
+        font-size: 13px;
+        line-height: 15px;
+        margin-left: 12px;
+        margin-top: 4px;
+    }
+
+    .productReviewPhoto img {
+        width: 95px;
+        height: 125px;
+        margin-left: 0;
+        margin-top: 15px;
+    }
+
+    .productReviewPhoto-2 img {
+        width: 95px;
+        height: 125px;
+        margin-left: 0;
+        margin-top: 15px;
+    }
+
+    .productReviewPhoto-3 img {
+        width: 95px;
+        height: 125px;
+        margin-left: 0;
+        margin-top: 15px;
+    }
+
+    .salle-name h4 {
+        font-size: 14px;
+        line-height: 16px;
+        margin-left: -10px;
+        margin-top: -37px;
+    }
+
+    .scroll-left-1 {
+        display: none;
+    }
+
+    .scroll-right-2 {
+        display: none;
+    }
+
+
+
+    .button-7 {
+        width: 201px;
+        height: 49px;
+    }
+
+    .button-7 h3 {
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+
+
+
+
+    .button-8 {
+        width: 108px;
+        height: 49px;
+    }
+
+    .button-8 h3 {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+
+    .button-9 {
+        width: 192px;
+        height: 49px;
+    }
+
+    .button-9 h3 {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .buttons {
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+
+    .goodsСardOne {
+        width: 200px;
+        height: 363px;
+    }
+
+    .goodsСardThree h2 {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+
+    .goodsСardTwo {
+        width: 200px;
+        height: 363px;
+    }
+
+    .goodsСardThree {
+        width: 200px;
+        height: 363px;
+        margin-left: -100px;
+    }
+
+    .fourCards-1 {
+        margin-left: 20px;
+    }
+
+    .fourCards-2 {
+        margin-left: 20px;
+        margin-bottom: 50px;
+    }
+    .fourCards-3 {
+        display: flex;
+        margin-left: 120px;
+        margin-top: 50px;
+    }
+
+
+    .line-3 {
+        width: 715px;
+        height: 1px;
+        margin-left: 20px;
+    }
+
+    .line-3-1 {
+        display: flex;
+        width: 715px;
+        height: 1px;
+        margin-left: 20px;
+        background: #E1E5F8;
+    }
+
+    .goodsСardOne-photo img {
+        width: 220px;
+        height: 180px;
+    }
+
+    .goodsСardOne h2 {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .button-10 {
+        width: 191px;
+        height: 46px;
+        margin-left: -3px;
+    }
+
+    .favorite-icon {
+        width: 21px;
+        height: 18px;
+        margin-left: -5px;
+    }
+
+    .i-icon {
+        display: none;
+    }
+
+    .button-10 h3 {
+        font-size: 14px;
+        line-height: 16px;
+        margin-left: 70px;
+    }
+
+    .button-10 img {
+        margin-left: 45px;
+        margin-top: 15px;
+    }
+
+    .goodsCardTwo h2 {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .price3 {
+        margin-top: 60px;
+    }
+
+    .goodsСardFour {
+        display: none;
+    }
+
+    .button-12 {
+        width: 184px;
+        height: 46px;
+        margin-left: 292px;
+    }
+
+    .button-12 h3 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .news2 {
+        font-size: 18px;
+        line-height: 21px;
+        margin-left: 20px;
+    }
+
+    .information-1 {
+        margin-left: -70px;
+    }
+
+    .news-1 h3 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .news-1 p {
+        width: 229px;
+        height: 198px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+
+    .information-2 {
+        margin-left: -120px;
+    }
+
+    .news-2 h3 {
+        width: 190px;
+        height: 48px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .news-2 ul {
+        width: 229px;
+        height: 110px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .information-3 {
+        margin-left: -90px;
+    }
+
+    .news-3 h3 {
+        width: 229px;
+        height: 32px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .news-3 ul {
+        width: 229px;
+        height: 132px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .information-4 {
+        display: none;
+    }
+
+    .footer {
+        width: 770px;
+        height: 780px;
+        background: #0C1A2A;
+    }
+
+    .footer-left {
+        margin-left: -70px;
+    }
+
+    .footer-right {
+        margin-top: 340px;
+        margin-left: -787px;
+    }
+
+    .icons {
+        margin-left: 350px;
+    }
+
+    .catalog {
+        width: 170px;
+        height: 219px;
+        display: flex;
+        flex-direction: column;
+        /*margin-right: 200px;*/
+    }
+
+    .name-2 {
+        width: 130px;
+    }
+
+    .rubricator {
+        margin-left: 50px;
+    }
+
+    .informations {
+        margin-left: -20px;
+    }
+
+    .name-6-1 {
+        margin-top: -10px;
+    }
+
+    .name-3-1 {
+        margin-top: -5px;
+    }
+
+    .name-5-1 {
+        margin-top: -5px;
+    }
+
+    .information2 {
+        font-size: 16px;
+        line-height: 16px;
+        margin-top: 13px;
+        position: absolute;
+        margin-left: 22px;
+    }
+
+    .informationAll {
+        width: 769px;
+        height: 46px;
+        margin-left: -383px;
+        filter: drop-shadow(-10px 0px 5px rgba(132, 132, 132, 0.25));
+        background: #0E1E2F;
+        margin-top: 408px;
+    }
+
+    .online-and-form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .meOnline {
+        margin-top: 75px;
+        margin-left: 52px;
+    }
+
+    .form {
+        font-size: 16px;
+        margin-top: 6px;
+        margin-left: 52px;
+    }
+
+    .address {
+        margin-left: -55px;
+    }
+
+    .subscribeToTheNewsletter {
+        margin-top: -50px;
+        margin-left: 350px;
+    }
+
+    .button-14 {
+        width: 250px;
+        height: 40px;
+        margin-left: 348px;
+    }
+
+    .button-14-1 {
+        margin-left: 247px;
+    }
+
+
+}

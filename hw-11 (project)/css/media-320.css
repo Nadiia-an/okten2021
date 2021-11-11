@@ -1,0 +1,979 @@
+html {
+    overflow-x: hidden;
+}
+
+@media screen and (max-width: 320px) {
+    .allBlocs {
+        margin-left: -5px;
+    }
+
+    .header-icon img {
+        display: none;
+    }
+
+    .header-left {
+        font-size: 13px;
+        line-height: 15px;
+        margin-left: -70px;
+    }
+
+    .city {
+        font-size: 12px;
+        line-height: 14px;
+        width: 63px;
+    }
+
+    .city-name {
+        font-weight: 500;
+        margin-top: -16px;
+        width: 32px;
+        font-size: 12px;
+        line-height: 14px;
+        margin-left: 182px;
+    }
+
+    .city-all {
+        margin-left: -22px;
+    }
+
+    .information-all {
+        display: none;
+    }
+
+    .cooperation-all {
+        display: none;
+    }
+
+    .hide p {
+       display: flex;
+        margin-top: 13px;
+        margin-left: 15px;
+    }
+
+    .hide img {
+        display: flex;
+    }
+
+    .header-right {
+        display: none;
+    }
+
+    .logo img {
+        width: 36.78px;
+        height: 40.2px;
+    }
+    .name {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .logo-all {
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+
+    .time {
+        display: none;
+    }
+
+    .location {
+        display: none;
+    }
+
+    .description {
+        width: 110px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+
+    .name-and-description {
+        margin-top: -1px;
+    }
+
+    .bloc-2 {
+        width: 320px;
+        height: 138px;
+    }
+
+    .button-3-1 img {
+        width: 16px;
+        height: 16px;
+        margin-left: 8px;
+        margin-top: 8px;
+    }
+
+    .search {
+        margin-top: -4px;
+    }
+
+    .number-all {
+        margin-left: -178px;
+        margin-top: 10px;
+    }
+
+    .number {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .number-description {
+        font-size: 10px;
+        line-height: 12px;
+        margin-left: 65px;
+        margin-top: 2px;
+    }
+
+    .button {
+        margin-left: 7px;
+        margin-top: 55px;
+        width: 138px;
+        height: 18px;
+    }
+
+    .whatsApp-description {
+        font-size: 9px;
+        line-height: 12px;
+        margin-left: -37px;
+        margin-top: -1px;
+    }
+
+    .whatsApp-icon {
+        width: 10px;
+        height: 10px;
+    }
+
+    .header-two {
+        margin-left: -70px;
+    }
+
+    .button-2 {
+        width: 34px;
+        height: 34px;
+       margin-top: 16px;
+    }
+
+    .catalog-all img {
+        width: 20px;
+        height: 14px;
+        margin-left: 25px;
+        margin-top: 15px;
+    }
+
+    .catalog {
+        display: none;
+    }
+
+    .button-3 {
+        width: 203px;
+        height: 34px;
+        margin-left: 20px;
+    }
+
+    .button-3-text {
+        font-size: 13px;
+        line-height: 15px;
+        margin-top: 12px;
+    }
+
+    .button-3-1 {
+        width: 34px;
+        height: 34px;
+    }
+
+    .button-3-text {
+        display: none;
+    }
+
+    .button-3-1-text {
+        display: none;
+    }
+
+
+    .button-3-text-2 {
+        font-size: 12px;
+        line-height: 14px;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-style: normal;
+        font-weight: normal;
+        display: flex;
+        align-items: center;
+        color: #C2C5DA;
+    }
+
+    .login {
+    display: none;
+    }
+
+    .favorites {
+      display: none;
+    }
+
+    .basket {
+      display: none;
+    }
+
+    .bloc-3 {
+        margin-left: -71px;
+    }
+
+    .first-screen-left img {
+        width: 290px;
+        height: 195px;
+        margin-top: 20px;
+    }
+
+    .first-screen-left h2 {
+        margin-left: 120px;
+        margin-top: -180px;
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .first-screen-left p {
+        font-size: 10px;
+        line-height: 12px;
+        margin-left: 120px;
+        margin-top: 4px;
+    }
+
+    .first-screen-left h4 {
+        font-size: 14px;
+        line-height: 16px;
+        margin-left: 120px;
+        margin-top: -40px;
+    }
+
+    .first-screen-left h1 {
+        font-size: 20px;
+        line-height: 23px;
+        margin-left: 120px;
+        margin-top: 30px;
+    }
+
+    .button-4 {
+        width: 124px;
+        height: 34px;
+        margin-left: 120px;
+        margin-top: 35px;
+    }
+
+    .button-4 img {
+        width: 12px;
+        height: 12px;
+        margin-top: 11px;
+        margin-left: 21px;
+    }
+
+    .button-4-1 p {
+        width: 66px;
+        font-size: 12px;
+        line-height: 14px;
+        margin-left: 10px;
+        margin-top: 11px;
+    }
+
+    .scroll-left {
+        display: none;
+    }
+
+    .scroll-right {
+        display: none;
+    }
+    .arrow-1 {
+        display: none;
+    }
+
+    .arrow-2 {
+        display: none;
+    }
+
+    .first-screen-right img {
+        width: 131px;
+        height: 111px;
+        margin-top: -60px;
+        margin-left: 250px;
+    }
+
+    .circle-all {
+        margin-left: 210px;
+        margin-top: 195px;
+    }
+
+    .circle-1 {
+        width: 12px;
+        height: 12px;
+    }
+
+    .circle-2 {
+        width: 12px;
+        height: 12px;
+    }
+
+    .circle-3 {
+        width: 12px;
+        height: 12px;
+    }
+
+    .spare-part-1-and-2 {
+        display: flex;
+        margin-left: -374px;
+        margin-top: 195px;
+    }
+
+    .sall-1 {
+        width: 250px;
+        height: 145px;
+    }
+
+    .sall-2 {
+        width: 250px;
+        height: 145px;
+        margin-left: 345px;
+        margin-top: -145px;
+    }
+
+    .spare-part-1 img {
+        width: 58px;
+        height: 54px;
+        margin-top: 15px;
+    }
+
+    .spare-part-2 img {
+        width: 58px;
+        height: 54px;
+        margin-top: 15px;
+    }
+
+    .spare-part-1 h4 {
+        font-size: 12px;
+        line-height: 14px;
+        margin-left: 20px;
+    }
+
+    .spare-part-2 h4 {
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .salle-name h3 {
+        font-size: 12px;
+        line-height: 18px;
+        margin-top: -10px;
+        margin-left: -10px;
+    }
+
+    .salle-name p {
+        font-size: 10px;
+        line-height: 12px;
+        margin-left: -10px;
+        margin-top: 3px;
+    }
+
+    .salle-name h2 {
+        font-size: 14px;
+        line-height: 16px;
+        margin-left: -10px;
+        margin-top: 15px;
+        width: 48px;
+        height: 14px;
+    }
+
+    .salle-name h4 {
+        font-size: 12px;
+        line-height: 14px;
+        margin-left: 40px;
+        margin-top: -12px;
+    }
+
+    .button-5 {
+        width: 32px;
+        height: 32px;
+        margin-left: 200px;
+        margin-top: 100px;
+    }
+
+    .button-5 img {
+        width: 12px;
+        height: 12px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+
+    .productReviewAll {
+        margin-left: -70px;
+        margin-top: 5px;
+    }
+
+    .productReview-11 {
+        width: 250px;
+        height: 126px;
+    }
+
+    .productReview-12 {
+        width: 250px;
+        height: 126px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .productReview-13 {
+        width: 250px;
+        height: 126px;
+    }
+
+    .productReview-1 h3 {
+        font-size: 16px;
+        line-height: 19px;
+        margin-left: -15px;
+        margin-top: -15px;
+    }
+    .productReview-1 p {
+        width: 120px;
+        font-size: 10px;
+        line-height: 14px;
+        margin-left: -15px;
+        margin-top: 5px;
+    }
+
+    .button-6 {
+        width: 72px;
+        height: 24px;
+        margin-left: -15px;
+        margin-top: 10px;
+    }
+
+    .button-6 h4 {
+        font-size: 12px;
+        line-height: 14px;
+        margin-left: 12px;
+        margin-top: 5.5px;
+    }
+
+    .productReviewPhoto img {
+        width: 74px;
+        height: 97px;
+        margin-left: 22px;
+        margin-right: 15px;
+        margin-top: 15px;
+    }
+
+    .productReviewPhoto-2 img {
+        width: 74px;
+        height: 97px;
+        margin-left: 22px;
+        margin-right: 15px;
+        margin-top: 15px;
+    }
+
+    .productReviewPhoto-3 img {
+        width: 74px;
+        height: 97px;
+        margin-left: 22px;
+        margin-right: 15px;
+        margin-top: 15px;
+    }
+
+    .scroll-left-1 {
+        display: none;
+    }
+
+    .scroll-right-2 {
+        display: none;
+    }
+
+    .button-7 {
+        width: 164px;
+        height: 36px;
+    }
+
+    .button-7 h3 {
+        width: 124px;
+        font-size: 14px;
+        line-height: 16px;
+        margin: 10px 20px 0 20px;
+    }
+
+    .button-8 {
+        width: 82px;
+        height: 36px;
+        margin-left: 10px;
+    }
+
+    .button-8 h3 {
+        font-size: 14px;
+        line-height: 16px;
+        margin: 8px 23px 0 17px;
+    }
+
+    .button-9 {
+        width: 156px;
+        height: 36px;
+        margin-left: -10px;
+    }
+
+    .button-9 h3 {
+        width: 116px;
+        font-size: 14px;
+        line-height: 16px;
+        margin: 9px 20px 0 18px;
+    }
+
+    .buttons {
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+
+    .goodsСardOne {
+        width: 138px;
+        height: 266px;
+    }
+
+    .goodsСardTwo {
+        width: 200px;
+        height: 363px;
+    }
+
+    .goodsСardThree {
+       display: none;
+    }
+
+    .fourCards-1 {
+        margin-left: 20px;
+    }
+
+    .fourCards-2 {
+        margin-left: 20px;
+        margin-bottom: 50px;
+    }
+    .fourCards-3 {
+       display: none;
+    }
+
+    .card-1-2 {
+        margin-top: 30px;
+        margin-left: 20px;
+        display: flex;
+    }
+
+    .line-3 {
+        width: 290px;
+        height: 1px;
+        margin-left: 20px;
+    }
+
+    .line-3-1 {
+        display: flex;
+        width: 290px;
+        height: 1px;
+        margin-left: 20px;
+        background: #E1E5F8;
+    }
+
+    .goodsСardOne-photo img {
+        width: 138px;
+        height: 120px;
+    }
+
+    .goodsСardOne h2 {
+        font-size: 13px;
+        line-height: 17px;
+        width: 120px;
+        height: 34px;
+        font-style: normal;
+        font-weight: 600;
+        margin-top: -8px;
+    }
+
+    .goodsCardTwo h2 {
+        font-size: 12.5px;
+        line-height: 17px;
+        width: 140px;
+        height: 34px;
+        font-style: normal;
+        font-weight: 600;
+        margin-top: -8px;
+    }
+
+    .h5-h4 h4 {
+        font-size: 10px;
+        line-height: 12px;
+        margin-top: 2px;
+    }
+
+    .price {
+        margin-top: 34px;
+    }
+
+    .price h3 {
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .price p {
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .button-10 {
+        width: 110px;
+        height: 35px;
+        margin-top: 2px;
+    }
+
+    .button-10 img {
+        width: 12px;
+        height: 12px;
+        margin-left: 14px;
+        margin-top: 11px;
+    }
+
+    .button-10 h3 {
+        font-size: 12px;
+        line-height: 14px;
+        margin-left: 37px;
+        margin-top: -15px;
+    }
+
+    .favorite-icon {
+        width: 17px;
+        height: 15px;
+        margin-top: -5px;
+        margin-left: -8px;
+    }
+
+    .i-icon {
+        display: none;
+    }
+
+    .prices h3 {
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 2px;
+    }
+
+    .prices p{
+        font-size: 10px;
+        line-height: 12px;
+        margin-top: 2px;
+    }
+
+    .prices {
+        margin-top: 35px;
+    }
+
+    .goodsCardTwo {
+        margin-left: 17px;
+    }
+
+    .price3 {
+        margin-top: 60px;
+    }
+
+    .button-12 {
+        width: 160px;
+        height: 34px;
+        margin-left: 85px;
+        margin-top: 30px;
+    }
+
+    .button-12 h3 {
+        font-size: 12px;
+        line-height: 14px;
+        text-align: center;
+        margin-top: 9px;
+    }
+
+    .line-4 {
+        display: none;
+    }
+
+    .circle-8 {
+        display: none;
+    }
+
+    .line-5 {
+        display: none;
+    }
+
+    .button-13 {
+        width: 61px;
+        height: 18px;
+        margin-top: 20px;
+    }
+
+    .button-13 h3 {
+        font-size: 10px;
+        line-height: 12px;
+        margin-left: -9px;
+    }
+
+    .news2 {
+        font-size: 16px;
+        line-height: 19px;
+        margin-left: 20px;
+        margin-top: 50px;
+        margin-bottom: 5px;
+    }
+
+    .information-1 {
+        margin-left: -70px;
+    }
+
+    .news-1 h3 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .news-1 p {
+        width: 290px;
+        height: 90px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .information-2 {
+        margin-left: -380px;
+        margin-top: 210px;
+    }
+
+    .news-2 h4 {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .news-2 h3 {
+        width: 282px;
+        height: 36px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .news-2 ul {
+        width: 241px;
+        height: 72px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .information-3 {
+        margin-left: -375px;
+        margin-top: 425px;
+    }
+
+    .news-3 h3 {
+        width: 282px;
+        height: 36px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .news-3 h4 {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .news-3 ul {
+        width: 200px;
+        height: 108px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .information-4 {
+        margin-left: -372px;
+        margin-top: 670px;
+        display: flex;
+    }
+
+    .news-4 h3 {
+        width: 282px;
+        height: 36px;
+        font-size: 14px;
+        line-height: 18px;
+        margin-left: -60px;
+        margin-top: 55px;
+    }
+
+    .news-4 p {
+        font-size: 12px;
+        line-height: 18px;
+        margin-left: -60px;
+        margin-top: 15px;
+    }
+
+    .footer {
+        width: 330px;
+        height: 1300px;
+        background: #0C1A2A;
+    }
+
+    .footer-left {
+        margin-left: -70px;
+    }
+
+    .footer-right {
+        margin-top: 840px;
+    }
+
+    .icons {
+        margin-left: 505px;
+        margin-top: 30px;
+    }
+
+    .catalog {
+        width: 170px;
+        height: 219px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .name-2 {
+        width: 130px;
+    }
+
+    .name-1 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .allNames {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .rubricator {
+        margin-left: -170px;
+        margin-top: 270px;
+    }
+
+    .informations {
+        margin-left: -230px;
+        margin-top: 500px;
+    }
+
+    .name-6-1 {
+        margin-top: -10px;
+    }
+
+    .name-3-1 {
+        margin-top: -5px;
+    }
+
+    .name-5-1 {
+        margin-top: -5px;
+    }
+
+    .contact-and-address {
+        margin-left: 407px;
+        margin-top: -10px;
+    }
+
+    .contact3 {
+        font-size: 14px;
+        line-height: 16px;
+        margin-top: -15px;
+    }
+
+    .contacts2 {
+        width: 94px;
+        font-size: 12px;
+        line-height: 14px;
+        margin-top: 15px;
+        margin-left: -75px;
+    }
+
+    .information2 {
+        font-size: 12px;
+        line-height: 14px;
+        margin-top: 17px;
+        position: absolute;
+        margin-left: 20px;
+    }
+
+    .informationAll {
+        width: 323px;
+        height: 46px;
+        margin-left: 75px;
+        filter: drop-shadow(-10px 0px 5px rgba(132, 132, 132, 0.25));
+        background: #0E1E2F;
+        margin-top: 495px;
+    }
+
+    .online-and-form {
+        display: flex;
+        flex-direction: column;
+        margin-top: -40px;
+        margin-left: 455px;
+    }
+
+    .subscribeToTheNewsletter {
+        width: 267px;
+        font-size: 14px;
+        line-height: 16px;
+        margin-top: 40px;
+        margin-left: 508px;
+    }
+
+    .meOnline {
+        font-size: 14px;
+        line-height: 16px;
+        margin-top: 75px;
+        margin-left: 52px;
+    }
+
+    .form {
+        font-size: 13px;
+        line-height: 15px;
+        margin-top: 6px;
+        margin-left: 52px;
+    }
+
+    .address {
+        margin-left: -252px;
+        margin-top: 35px;
+    }
+
+    .address2 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .addressTwo {
+        width: 179px;
+        height: 28px;
+        font-size: 12px;
+        line-height: 16px;
+        margin-top: 10px;
+    }
+
+
+    .button-14 {
+        width: 286px;
+        height: 34px;
+        margin-left: 505px;
+        margin-top: 40px;
+    }
+
+    .button-14-1 {
+        width: 98px;
+        height: 34px;
+        margin-left: 190px;
+        margin-top: -24px;
+    }
+
+    .button-14 p {
+        font-size: 12px;
+        line-height: 14px;
+        /*margin-top: 9px;*/
+    }
+
+    .button-14-1 p {
+        font-size: 12px;
+        line-height: 14px;
+        padding-top: 10px;
+        margin-left: 13px;
+    }
+
+
+}

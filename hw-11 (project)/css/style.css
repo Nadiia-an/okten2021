@@ -1,21 +1,29 @@
+html {
+    overflow-x: hidden;
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Explora&family=Niconne&family=Roboto&family=Saira+Semi+Condensed:wght@100;200;300;700&display=swap');
+
 
 * {
     margin: 0;
     padding: 0;
+    outline: none;
+}
+
+body {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    float: left;
     font-family: 'Roboto', sans-serif;
 }
 
 /*______________________________  bloc-1  ______________________________*/
 
-.allBlocs{
-    max-width: 1536px;
-}
-
 
 .bloc-1 {
-    /*width: 100%;*/
-    /*max-width: 1440px;*/
     height: 40px;
     background: #0F2438;
 }
@@ -24,13 +32,10 @@
     color: #FFFFFF;
     font-size: 14px;
     line-height: 16px;
-    /*font-style: normal;*/
     font-weight: 500;
-    /*max-width: 1440px;*/
 }
 
 .header-icon {
-    /*width: 20px;*/
     height: 20px;
     margin-left: 91px;
     margin-top: 10px;
@@ -39,31 +44,51 @@
 .city {
     margin-left: 115px;
     margin-top: -17px;
-    /*width: 73px;*/
     height: 16px;
-
 }
 
 .city-name {
-    /*width: 51px;*/
     height: 16px;
     margin-left: 192px;
     margin-top: -15.8px;
     font-weight: 600;
     text-decoration-line: underline;
+    transition: color .3s;
+}
+
+.city-name:hover {
+    color: #005BB9;
 }
 
 .information {
-    /*width: 87px;*/
     height: 16px;
     margin-left: 52px;
     margin-top: 12px;
     font-weight: 500;
+    transition: color .3s;
 }
 
 .information-all {
-    /*max-width: 1440px;*/
     display: flex;
+}
+
+.information-all:hover {
+    color: #005BB9;
+}
+
+.hide p {
+    display: none;
+    font-size: 12px;
+    line-height: 14px;
+    color: #ffffff;
+}
+
+.hide img {
+    display: none;
+    margin-top: -11px;
+    margin-left: 40px;
+    width: 14px;
+    height: 6px;
 }
 
 .information-icon {
@@ -78,6 +103,74 @@
     height: 16px;
     margin-left: 30px;
     margin-top: 12px;
+    transition: color .3s;
+}
+
+.cooperation:hover {
+    color: #005BB9;
+}
+
+.delivery {
+    transition: color .3s;
+}
+
+.delivery:hover {
+    color: #005BB9;
+}
+
+
+.payment {
+    transition: color .3s;
+}
+
+.payment:hover {
+    color: #005BB9;
+}
+
+.news {
+    transition: color .3s;
+}
+
+.news:hover {
+    color: #005BB9;
+}
+
+.magazine {
+    transition: color .3s;
+}
+
+.magazine:hover {
+    color: #005BB9;
+}
+
+.about-the-store {
+    transition: color .3s;
+}
+
+.about-the-store:hover {
+    color: #005BB9;
+}
+
+
+.mobile:last-child:hover .header-right-mobile {
+    display: block;
+}
+
+
+.contacts {
+    transition: color .3s;
+}
+
+.contacts:hover {
+    color: #005BB9;
+}
+
+.warranty {
+    transition: color .3s;
+}
+
+.warranty:hover {
+    color: #005BB9;
 }
 
 .cooperation-icon {
@@ -102,7 +195,7 @@
     display: flex;
     color: #FFFFFF;
     justify-content: space-between;
-    margin-left: 291px;
+    margin-left: 304px;
     margin-top: 10px;
 }
 
@@ -117,7 +210,6 @@
 /*______________________________  bloc-2  ______________________________*/
 
 .bloc-2 {
-    /*width: 100%;*/
     height: 196px;
     margin-left: 0;
     background: #FFFFFF;
@@ -249,7 +341,7 @@
 }
 
 .number-description {
-    margin-left: 97px;
+    margin-left: 88px;
     font-style: normal;
     font-weight: 600;
     font-size: 12px;
@@ -304,6 +396,14 @@
     margin-top: 21px;
     background: #005BB9;
     border-radius: 0 6px 6px 0;
+}
+
+.button-3-text-2 {
+    display: none;
+}
+
+.button-3-1-text img {
+    display: none;
 }
 
 .search {
@@ -419,7 +519,6 @@
 /*______________________________  bloc-3  ______________________________*/
 
 .first-screen-left {
-    /*width: 1008%;*/
     height: 390px;
 }
 
@@ -445,7 +544,6 @@
     font-weight: normal;
     font-size: 20px;
     line-height: 23px;
-    text-decoration-line: underline;
     color: #717171;
 }
 
@@ -475,7 +573,7 @@
     width: 160px;
     height: 49px;
     margin-left: 236px;
-    margin-top: 300px;
+    margin-top: 20px;
     background: #005BB9;
     border-radius: 6px;
 }
@@ -485,7 +583,7 @@
     margin-left: 25px;
 }
 
-.button-4 p {
+.button-4-1 p {
     margin-top: 15px;
     margin-left: 15px;
     font-weight: 600;
@@ -501,8 +599,8 @@
 }
 
 .first-screen-right img {
-    margin-left: -400px;
-    margin-top: 50px;
+    margin-left: 600px;
+    margin-top: -230px;
 }
 
 .first-screen-left-and-right {
@@ -689,7 +787,7 @@
 .spare-part-1-and-2 {
     display: flex;
     flex-direction: column;
-    margin-left: -90px;
+    margin-left: -73px;
 }
 
 .bloc-3 {
@@ -699,7 +797,7 @@
 /*/*______________________________  bloc-4  ______________________________*/
 
 .productReview-11 {
-    /*width: 431px;*/
+    width: 431px;
     height: 184px;
     background: #FFFFFF;
     border: 1px solid #E1E5F8;
@@ -711,7 +809,7 @@
 }
 
 .productReview-12 {
-    /*width: 431px;*/
+    width: 431px;
     height: 184px;
     background: #FFFFFF;
     border: 1px solid #E1E5F8;
@@ -723,7 +821,7 @@
 }
 
 .productReview-13 {
-    /*width: 431px;*/
+    width: 431px;
     height: 184px;
     background: #FFFFFF;
     border: 1px solid #E1E5F8;
@@ -786,7 +884,7 @@
 }
 
 .productReviewPhoto-2 img {
-    margin-left: 100px;
+    margin-left: 78px;
     margin-top: 4px;
 }
 
@@ -814,7 +912,7 @@
 .scroll-right-2 {
     width: 40px;
     height: 40px;
-    margin-left: 1452px;
+    margin-left: 1423px;
     margin-top: 75px;
     background: #FFFFFF;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.31);
@@ -1003,10 +1101,9 @@
     margin-top: 15px;
 }
 
-
-
-
-
+.card-1-2 {
+    display: none;
+}
 
 .goodsCardTwo {
     margin: 0 50px 0 50px;
@@ -1016,13 +1113,10 @@
     margin: 0 0 0 80px;
 }
 
-
-
 .goodsCardTwo-photo img {
     width: 260px;
     height: 216px;
 }
-
 
 .goodsCardTwo h4 {
     font-style: normal;
@@ -1079,9 +1173,6 @@ position: absolute;
     padding: 4.5px;
 }
 
-
-
-
 .goodsСardThree h4 {
     font-style: normal;
     font-weight: normal;
@@ -1116,10 +1207,18 @@ position: absolute;
     color: #0A1A2C;
 }
 
-.fourCards {
+.fourCards-1 {
     display: flex;
     margin-left: 91px;
     margin-top: 30px;
+}
+
+/*.line-3-1 {*/
+/*    display: none;*/
+/*}*/
+
+.fourCards-3 {
+  display: none;
 }
 
 .goodsСardTwo-photo img {
@@ -1464,6 +1563,26 @@ position: absolute;
     border-radius: 0 6px 6px 0;
 }
 
+.button-14 p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #ADBDD1;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.button-14-1 p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #ADBDD1;
+    margin-left: 37px;
+    padding-top: 10px;
+}
+
 .icons {
     display: flex;
     margin-top: 27px;
@@ -1529,7 +1648,7 @@ position: absolute;
     font-size: 18px;
     line-height: 21px;
     color: #FFFFFF;
-    margin-left: 37px;
+    margin-left: 44px;
     margin-top: 30px;
 }
 
@@ -1544,15 +1663,6 @@ position: absolute;
     color: #858CAB;
 }
 
-.button-14 p {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 19px;
-    color: #ADBDD1;
-    margin-left: 20px;
-  margin-top: 10px;
-}
 
 .telegram {
     margin-left: 55px;
@@ -1563,15 +1673,9 @@ position: absolute;
     margin-right: 55px;
 }
 
-
-
-
-
-
 .mobile {
     display: none;
 }
 
-/*.button-3-text-2 {*/
-/*    display: none;*/
-/*}*/
+
+
